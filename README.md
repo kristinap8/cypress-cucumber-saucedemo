@@ -9,7 +9,7 @@
 
 ## Summary of Repo
 
-This repository contains automated test cases for [Swag Labs](https://www.saucedemo.com/) implemented using Cypress and Cucumber. /n
+This repository contains automated test cases for [Swag Labs](https://www.saucedemo.com/) implemented using Cypress and Cucumber. \n
 Link to the generated report: https://kristinap8.github.io/cypress-cucumber-saucedemo/.
 
 ## Requirements
