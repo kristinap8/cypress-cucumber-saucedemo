@@ -1,6 +1,7 @@
 name: Cypress tests
-on: push
-  branches: main, master
+on:
+  push:
+    branches: [ main, master ]
 jobs:
   cypress-run:
     runs-on: ubuntu-22.04
